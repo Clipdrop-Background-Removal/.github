@@ -25,7 +25,7 @@ Searches such as Clipdrop background removal, Clipdrop image upscaling, and Clip
 | **Remembers context** | Files, tools, and previews help you return to the next task fast. |
 | **Fast feedback** | Open Clipdrop, pick a tool, and edit without switching apps. |
 
-![Clipdrop](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vZVaJMq-9AOCKakgZCIqd3Pp_7ewuchYrCTIpkrYJLhpS-8NRhHEm4g&s=10)
+![Clipdrop](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoyMCaoKNk9RIRRyKCN6OBR9tHQw15EVvkdrND9PDqD7CRP54cLXIVcUH&s=10)
 
 ## Key Features of Clipdrop
 
